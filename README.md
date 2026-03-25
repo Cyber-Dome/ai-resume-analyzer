@@ -51,8 +51,7 @@ Set these before running:
 - web developer
 - data analyst
 
-## Important Note
-Do not hardcode API keys in public repositories.
+
 
 ## Author
 Amal Aji
